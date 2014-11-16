@@ -29,7 +29,7 @@ gem 'spring',        group: :development
 #gem for rails admin : 
 gem 'rails_admin', '~> 0.6.5'
 
-gem 'rack-wwwhisper', '~> 1.0'
+#gem 'rack-wwwhisper', '~> 1.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
